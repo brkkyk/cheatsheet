@@ -11,3 +11,9 @@ System Preferences >> Keyboard >> Shortcuts >> App Shortcuts >> +
 `Show Previous Tab - CMD+1`
 
 `Show Next Tab - CMD+2`
+# Change priority of paths
+`sudo vim /etc/paths`
+# SSH key generate and copy to clipboard
+`ssh-keygen`
+
+`pbcopy < ~/.ssh/id_rsa.pub`
