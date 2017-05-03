@@ -19,3 +19,5 @@ System Preferences >> Keyboard >> Shortcuts >> App Shortcuts >> +
 `pbcopy < ~/.ssh/id_rsa.pub`
 # show number of lines
 `nl hebe`
+# du hast- sizes
+du -h
